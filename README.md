@@ -1,2 +1,2 @@
-# Minimalist-Portfolio-Responsive
+# Minimalist-Portfolio-Responsive-ScrollRevealJs
 Minimalist Portfolio Responsive WebSite Project.
