@@ -4,4 +4,8 @@
 
 # Minimalist-Portfolio-Responsive-ScrollRevealJs
 
+### Responsive Design & Dark/Light Theme
+
+#### Created By; Html, Css, JavaScript, ScrollRevelJs
+
 This is the original project: ![YouTube/Bedimcode](https://www.youtube.com/watch?v=mq0xJxOTiYo)
