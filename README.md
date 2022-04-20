@@ -2,4 +2,4 @@
 
 # Minimalist-Portfolio-Responsive-ScrollRevealJs
 
-This is the original project: [YouTube/Bedimcode](https://www.youtube.com/watch?v=mq0xJxOTiYo)
+This is the original project: ![YouTube/Bedimcode](https://www.youtube.com/watch?v=mq0xJxOTiYo)
