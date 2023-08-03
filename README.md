@@ -4,5 +4,18 @@
 
 # Ui_Minimalist_Portfolio
 
-*Original Coding Video Link (Bedimcode/YouTube):* *[💼 Create a Responsive Mini Portfolio Website Design Using HTML CSS & JavaScript](https://youtu.be/mq0xJxOTiYo)*
+**_Ui Minimalist Portfolio_**
 
+## Technologies
+
+-   **Html**
+-   **Css**
+-   **JavaScript**
+
+## Dependencies
+
+-   **Google Fonts(Poppins)**
+-   **Remix Icon**
+-   **ScrollReveal**
+
+_Original Coding Video Link (Bedimcode/YouTube):_ _[💼 Create a Responsive Mini Portfolio Website Design Using HTML CSS & JavaScript](https://youtu.be/mq0xJxOTiYo)_
